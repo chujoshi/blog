@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
+// 예제코드에선 변수 이름을 a와 c로 선언한 부분이 'c언어'와 헷갈릴 수 있어 본 문서에서는 각각 arr, ptr로 변경, 그 외 내용은 같다.
 int main()
 {
 	char a[] = "where is jontonde";
