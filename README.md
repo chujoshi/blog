@@ -6,14 +6,16 @@ one girl == a joshi == 아 죠시
 
 ---
 
-## 분류는 운영해가며 수정
+분류는 운영해가며 수정   
+pages 안 써요... 꾸미기 귀찮
 
 ---
 
-## c
+## [dev](/dev)
+* [c](/dev/c)
 
-## gaming
+## [gaming](/gaming)
 
-## life
+## [life](/life)
 
-## etc
+## [etc](/etc)
