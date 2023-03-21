@@ -17,6 +17,7 @@ pages 안 써요... 꾸미기 귀찮
 
 </summary>
 
+
 <details> <summary>
 
 ## [c](/dev/c)
@@ -26,6 +27,9 @@ pages 안 써요... 꾸미기 귀찮
 > [1. pointers and arrays](/dev/c/1.pointers_and_arrays)
 
 </details>
+
+* [commit conventions](/dev/commit_conventions)
+
 </details>
 
 --------------------------------------------------------------------------------------------------------------------------------
