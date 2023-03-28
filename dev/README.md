@@ -11,9 +11,9 @@
 ## [c](c)
 
 </summary>
-
 > [1. pointers and arrays](1.pointers_and_arrays)  
->
+> [2. ch1 ~ pointers to functions](2.ch1~pointers_to_functions)  
+> [3. ch1 leftovers](3.ch1_leftovers)  
 
 </details>
 
