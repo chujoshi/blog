@@ -23,7 +23,7 @@ Udacity도 이유를 밝히지 않았듯, 나도 지극히 개인적인 이유�
 ```
 ### chujoshi convention ###
 
-head - body - footer
+head - body - number
 
 <head>
 파일 및 디렉토리 생성 == Added
@@ -32,10 +32,10 @@ head - body - footer
 </head>
 
 <body>
-세부 내용
+세부 내용(head에서 건드린 내용의 경로 포함) | 중복된 내용일 시 숫자로 기록(주의 #를 사용하지 말 것)
 </body>
 
-<footer>
+<number>
 #번호 기록
-</footer>
+</number>
 ```
